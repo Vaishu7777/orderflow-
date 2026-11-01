@@ -1,0 +1,6 @@
+{
+  "name": "OrderFlow Sentinel AI",
+  "description": "Intelligent Order Recovery Platform for detecting, diagnosing, safely recovering failed e-commerce orders, and cryptographic proof verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
